@@ -1,0 +1,2 @@
+timestamp, name, memory.used [MiB], utilization.gpu [%], utilization.memory [%], temperature.gpu, power.draw [W], clocks.current.graphics [MHz], clocks.current.sm [MHz], clocks.current.memory [MHz], clocks.current.video [MHz]
+2024/11/26 09:33:22.646, NVIDIA GeForce RTX 3070, 608 MiB, 1 %, 0 %, 67, 56.64 W, 1725 MHz, 1725 MHz, 7000 MHz, 1515 MHz
